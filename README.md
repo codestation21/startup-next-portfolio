@@ -4,8 +4,7 @@
 
 # Startup landing Next porfolio website
 
-A responsive beautiful Startup porfolio landing page website using next js.
-
+A responsive beautiful Startup portfolio landing page website using next js.
 ## Demo
 
 https://next-portofolio.web.app/
